@@ -1,0 +1,206 @@
+NS Fitness
+Tel Aviv-Yafo
+Mivtsa Kadesh
+38
+1
+859.30
+9602.00
+9025.000000
+6
+Creed Bratton
+0545675671
+1375
+25
+2
+Dwight Schrute
+0509080705
+1500
+12
+4
+Michael Scott
+0526915546
+1875
+3
+3
+Pam Beesly
+0521233455
+1225
+1
+0
+Kevin Malone
+0547578328
+1675
+7
+1
+Stanley Hudson
+0529182735
+1375
+7
+4
+12
+11
+Legs Press
+1
+0
+100
+Hack Squat
+2
+0
+75
+Dumbbells
+3
+1
+80
+Lat Pulldown
+4
+2
+50
+Bench Press
+5
+3
+100
+Chest Press
+6
+3
+90
+Chest Fly
+7
+3
+50
+Treadmill
+8
+5
+10
+Bike
+9
+5
+8
+Seated Dumbbell
+10
+4
+70
+Military Press
+11
+4
+35
+300
+4
+The Rock
+0543211235
+1
+4
+Legs Press
+1
+0
+100
+5
+5
+50
+Dumbbells
+3
+1
+80
+3
+12
+30
+Bench Press
+5
+3
+100
+2
+7
+15
+Seated Dumbbell
+10
+4
+70
+5
+10
+60
+Arnold Schwarzenegger
+0508274921
+1
+3
+Chest Fly
+7
+3
+50
+5
+12
+50
+Military Press
+11
+4
+35
+5
+3
+10
+Bike
+9
+5
+8
+5
+65
+Vin Diesel
+0528164209
+0
+1
+Lat Pulldown
+4
+2
+50
+12
+2
+50
+Chris Hemsworth
+0501856229
+0
+4
+Hack Squat
+2
+0
+75
+5
+7
+75
+Lat Pulldown
+4
+2
+50
+3
+3
+12
+Chest Press
+6
+3
+90
+8
+8
+8
+Treadmill
+8
+5
+10
+3
+120
+559.30
+577.00
+3
+Protain Bar
+4
+49
+76
+2
+50
+Energy Drink
+7
+33
+42
+3
+35
+Water Bottle
+3
+100
+2
+1
+100
